@@ -18,5 +18,4 @@ Review of three container orchestration system for automating software deploymen
 After tools exploration I think that k3d fits. k3d is a powerful tool that simplifies Kubernetes setups for local development. It offers a lightweight, flexible, and cost-effective way to test and develop applications in a Kubernetes environment. With k3d, developers can quickly iterate over their Kubernetes configurations, test their applications in a realistic environment, and seamlessly integrate Kubernetes into their existing workflows.
 
 ## Demo
-**k3d demo session** <br />
-TODO...
+![Demo](/demo.gif)
