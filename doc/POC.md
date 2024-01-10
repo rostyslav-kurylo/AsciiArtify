@@ -14,7 +14,7 @@ curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | bash
 kubectl create namespace argocd
 kubectl get namespace
 ```
-![screenshot](poc_2.png)
+![screenshot](assets/poc_2.png)
 
 #### 2.2. Create cluster
 
@@ -22,7 +22,7 @@ kubectl get namespace
 k3d cluster create demo
 kubectl cluster-info
 ```
-![screenshot](poc_1.png)
+![screenshot](assets/poc_1.png)
 
 ### 3. Install ArgoCD
 
